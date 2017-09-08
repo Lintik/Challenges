@@ -1,10 +1,6 @@
 Given an array of integers, remove all of the duplicates
 
-[time limit] 4000ms (py)
-[input] array.integer a
+* __[time limit] 4000ms (py)__
+* __[input] array.integer a__ <br /><br />An array of integers
 
-An array of integers
-
-[output] array.integer
-
-sorted version of the input array with duplications removed
+* __[output] array.integer__<br /><br />sorted version of the input array with duplications removed
